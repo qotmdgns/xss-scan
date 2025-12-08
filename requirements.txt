@@ -1,0 +1,8 @@
+selenium>=4.0.0
+chromedriver-autoinstaller
+requests
+beautifulsoup4
+
+# 테스트용 (선택사항)
+# pytest
+# pytest-cov
